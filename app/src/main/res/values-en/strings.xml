@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="r_initialiser">Reset</string>
+    <string name="gagnant_Text">Winner : Player %1$s</string>
+    <string name="match_nul_Text">Draw!</string>
+    <string name="tour_Text">Turn : Player %1$s (%2$s)</string>
+    <string name="message_exception">The box is already occupied. Try again!</string>
+</resources>
