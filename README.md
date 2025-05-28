@@ -7,7 +7,7 @@ this mobile application has the ability to let the player play against a smart a
 - android studio (software)
 
 # author
-- me <3
+- me
 
 # licenses
 - MIT license
