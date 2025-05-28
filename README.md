@@ -6,12 +6,12 @@ this mobile application has the ability to let the player play against a smart a
 - kotlin (programming language)
 - android studio (software)
 
+# installation instructions (2 options)
+- for the impatient : just fork this repository and clone it on android studio
+- download all the files, run android studio and import the project
+
 # author
 - me
 
 # licenses
 - MIT license
-
-# installation instructions (2 options)
-- for the impatient : just fork this repository and clone it on android studio
-- download all the files, run android studio and import the project
