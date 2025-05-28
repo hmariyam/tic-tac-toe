@@ -1,1 +1,16 @@
 # tic-tac-toe
+tic-tac-toe is a simple game where two players take turns marking the spaces in a three by three grid with either an X or an O.
+this mobile application has the ability to let the player play against a smart and strategic bot.
+
+# technologies used
+- kotlin (programming language)
+- android studio (software)
+
+# author
+- me <3
+
+# licenses
+- MIT license
+
+# installation instructions
+if you're impatient, just fork this repository and clone it on android studio
