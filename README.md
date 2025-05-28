@@ -12,5 +12,6 @@ this mobile application has the ability to let the player play against a smart a
 # licenses
 - MIT license
 
-# installation instructions
-if you're impatient, just fork this repository and clone it on android studio
+# installation instructions (2 options)
+- for the impatient : just fork this repository and clone it on android studio
+- download all the files, run android studio and import the project
