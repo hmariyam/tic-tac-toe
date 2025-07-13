@@ -17,4 +17,7 @@ this mobile application has the ability to let the player play against a smart a
 - MIT license
 
 # video preview
+<div align="center">
+  
 [Tic Tac Toe Vidéo.webm](https://github.com/user-attachments/assets/01db01fb-8427-4df1-955e-eebae902175e)
+</div>
