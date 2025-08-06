@@ -18,5 +18,9 @@ this mobile application has the ability to let the player play against a smart a
 
 # video preview
 <div align="center">
+
+  
   [Tic Tac Toe Vidéo.webm](https://github.com/user-attachments/assets/edd4d6ed-8198-4b1e-997e-361eb9faaaa2)
+
+  
 </div>
